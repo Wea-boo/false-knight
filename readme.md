@@ -1,6 +1,6 @@
 # false-knight's documentation
 ## Base URL
-http://localhost:3000/api
+http://localhost:3000
 ## Endpoints
 
 ### 1. Get All Characters
