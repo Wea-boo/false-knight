@@ -22,7 +22,8 @@ http://localhost:3000
       "role": "warrior",
       "race": "human",
       "level": 50
-    }
+    },
+    ...
   ],
   "nextCursor": "60a6f9bf7b1f4c10b8b78a57"
 }
